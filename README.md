@@ -1,8 +1,13 @@
 ## Cobre Dataset 
 ### Comparing graph measures
 
-Lison Blondeau
+Lison Blondeau - ENS Lyon - France
 lison.blondeau-patissier@ens-lyon.fr
+
+Nicolas Farrugia - IMT Atlantique - France 
+nicolas.farrugia@imt-atlantique.fr 
+
+June 2017
 
 
 
